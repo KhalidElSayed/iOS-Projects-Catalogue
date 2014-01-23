@@ -620,6 +620,3 @@ rendering (CoreAnimation)
 Tor anonymity network
 
 
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/stanislaw/ios-projects-catalogue/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
