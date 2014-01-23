@@ -1,3 +1,3 @@
 .PHONY: index
 index:
-	cat README.md | markdown > index.html
+	cat *.md | markdown > index.html
