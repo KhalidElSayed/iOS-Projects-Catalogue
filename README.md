@@ -11,6 +11,8 @@ Also I keep another catalogue of projects: it contains [the list of candidates f
 
 Note! This catalogue also includes a number of projects which are not open-source but are still somehow related to a development of iOS/Objective-C applications.
 
+Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and [Web version](http://stanislaw.github.io/iOS-Projects-Catalogue/) of this catalogue are available.
+
 ----
 
 ## Contents
