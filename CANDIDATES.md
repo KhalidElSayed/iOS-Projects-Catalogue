@@ -32,10 +32,6 @@ Keywords: iOS, tree, algorithms, data structures, binary, b-trees.
 
 > GUI Mac Wrapper for iPhone Simulator Binaries.
 
-* [gh-kit](https://github.com/gabriel/gh-kit)
-
-> Utilities and categories for Objective-C
-
 * [CoreNetworking](https://github.com/keithduncan/CoreNetworking)
 
 > Framework for building network clients and servers, includes a simple HTTP server out of the box
