@@ -340,6 +340,11 @@ suppress selectors at runtime
 
 > NSLog replacement for coders!
 
+* [rabovik/ATLog](https://github.com/rabovik/ATLog)
+
+> Log common structures without boring conversions.
+ATLog(@"%@",CGPointMake(1,1)); // No need for NSStringFromCGPoint.
+
 ----
 
 ## <a name="Testing"></a> Testing
