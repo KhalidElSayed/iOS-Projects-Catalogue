@@ -41,8 +41,8 @@ Last update: 2014-01-29.
   * [Key-Value stores](#Networking/Key-Value-Stores)
   * [SQLite-based](#Data/SQLite-based)
 
-* [Debugging](#Debugging)
-  * [Logging](#Debugging/Logging)
+* [Debugging tools](#DebuggingTools)
+  * [Logging](#DebuggingTools/Logging)
 
 
 * [Testing](#Testing)
