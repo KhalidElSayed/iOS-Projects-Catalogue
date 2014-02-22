@@ -1,19 +1,23 @@
 iOS-Projects-Catalogue
 ======================
 
-This is my collection of iOS/Objective-C Open Source projects. I prefer keeping it in a separate repository to have a fast access to any projects I recently Github-starred or explored.
+This is the catalogue of iOS/Objective-C Open Source projects. I created it to have a fast access to any Mac/iOS-related projects I recently Github-starred or explored.
 
-It will grow as fast as it is possible with my ability to add new projects I am already aware of and my ability to explore new projects around the net, Github, etc.
+It will grow as fast as it is possible with my ability to add/explore new projects around the net, Github, etc.
 
-If you liked it, feel free to suggest any new projects that are not present in the current list.
+If you liked it, feel free to suggest any new projects that are not
+present in the current list. See [Contribution](https://github.com/stanislaw/iOS-Projects-Catalogue/blob/master/Contribution.md).
 
-Also I keep another catalogue of projects: it contains [the list of candidates for this catalogue](https://github.com/stanislaw/iOS-Projects-Catalogue/blob/master/CANDIDATES.md). After I am sure enough that a particular candidate-project deserves its place here, I move it here from the list of Candidates.
+Also I keep another catalogue of projects: it contains [the list of candidates for this
+catalogue](https://github.com/stanislaw/iOS-Projects-Catalogue/blob/master/Candidates.md). After I am sure enough that a particular candidate-project deserves its place here, I move it here from the list of Candidates.
 
 Note! This catalogue also includes a number of projects which are not open-source but are still somehow related to a development of iOS/Objective-C applications.
 
 Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and [Web version](http://stanislaw.github.io/iOS-Projects-Catalogue/) of this catalogue are available.
 
-Last update: 2014-01-29.
+Suggestions are welcome! New projects are welcome!
+
+Last update: 2014-02-22.
 
 ----
 
@@ -38,7 +42,8 @@ Last update: 2014-01-29.
 
 * [Data](#Data)
   * [Core Data](#Data/Core-Data)
-  * [Key-Value stores](#Networking/Key-Value-Stores)
+  * [NoSQL](#Data/NoSQL)
+  * [Key-Value stores](#Data/Key-Value-Stores)
   * [SQLite-based](#Data/SQLite-based)
 
 * [Debugging tools](#DebuggingTools)
@@ -167,6 +172,12 @@ Future-proof with ARC
 > macros that automate vending an NSString given an enum value (f.x.
 MyEnumToString(value))
 
+* [swansontec/map-macro](https://github.com/swansontec/map-macro)
+
+> A recursive C preprocessor macro which performs an operation on each
+element of a list
+
+
 ### <a name="Objective-C-And-Cocoa/Conventions-And-Styleguides"></a> Conventions / Style guides
 
 * [github/objective-c-conventions](https://github.com/github/objective-c-conventions)
@@ -291,15 +302,22 @@ for NSCoding and NSCopying to every object.
 
 > ActiveRecord for iOS without CoreData, only SQLite.
 
+### <a name="Data/NoSQL"></a> NoSQL
+
+* [Couchbase Lite](https://github.com/couchbase/couchbase-lite-ios)
+
+> Couchbase Lite is an embedded lightweight, document-oriented (NoSQL),
+syncable database engine.  
+
+* [NyaruDB](https://github.com/kelp404/NyaruDB)
+
+> A simple NoSQL database(key-value pair) in Objective-C. It runs on iOS and OS X.
+
 ### <a name="Data/Key-Value-Stores"></a> Key-Value stores
 
 * [YapDatabase](https://github.com/yaptv/YapDatabase)
  
 > YapDatabase is a "key/value store and MORE" built atop sqlite for iOS & Mac.
-
-* [NyaruDB](https://github.com/kelp404/NyaruDB)
-
-> A simple NoSQL database(key-value pair) in Objective-C. It runs on iOS and OS X.
 
 * [NULevelDB](https://github.com/nulayer/NULevelDB)
 
@@ -354,6 +372,10 @@ ATLog(@"%@",CGPointMake(1,1)); // No need for NSStringFromCGPoint.
 * [Kiwi](https://github.com/allending/Kiwi)
 
 > BDD for iOS
+
+* [specta](https://github.com/specta/specta)
+
+> A light-weight TDD / BDD framework for Objective-C & Cocoa
 
 * [Cedar](https://github.com/pivotal/cedar)
 
@@ -422,6 +444,13 @@ output easier to parse by humans.
 > A tool that will make a lot of iPhone/iPad developers' life easier. It
 shares your app over-the-air in a WiFi network. Bonjour is used and no
 configuration is needed.
+
+* [iOStream](https://github.com/johnmoore/iOStream)
+
+> Presenting mobile apps is a pain in the ass. So is collaborating
+remotely with mobile developers. Don't let clunky hardware cameras and
+unrealistic simulators get in your way. Introducing iOStream. Mobile
+presentations made easy. Install the SDK and start streaming now.
 
 ----
 

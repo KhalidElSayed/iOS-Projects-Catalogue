@@ -3,6 +3,15 @@ Candidates for iOS-Projects-Catalogue
 
 ## Uncategorized
 
+* [EDSunriseSet](https://github.com/erndev/EDSunriseSet)
+
+> Objective-C class to calculate Sunrise/Sunset/Twilight times.
+
+* [GRMustache](https://github.com/groue/GRMustache)
+
+> Flexible and production-ready Mustache templates for MacOS Cocoa and
+iOS
+
 * [mschmulen/ios7-javascript-bridge](https://github.com/mschmulen/ios7-javascript-bridge)
 
 * [marcoarment/FCOfflineQueue](https://github.com/marcoarment/FCOfflineQueue)
