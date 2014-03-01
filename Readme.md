@@ -17,7 +17,7 @@ Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and [
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2014-02-22.
+Last update: 2014-02-26.
 
 ----
 
@@ -61,11 +61,14 @@ Last update: 2014-02-22.
 * [Deployment](#Deployment)
 
 
-* [Command-line](#Command-Line)
+* [Beta testing](#Beta-testing)
 
 
 * [Analytics](#Analytics)
   * [Providers](#Analytics/Providers)
+
+
+* [Command-line](#Command-Line)
 
 
 * [Xcode](#Xcode)
@@ -90,6 +93,9 @@ Last update: 2014-02-22.
 
 
 * [Audio](#Audio)
+
+
+* [Cross-platform development](#Cross-platform-development)
 
 
 * [Apps](#Apps)
@@ -245,6 +251,10 @@ OS X.
 > AFNetworking Extension for HTTP Request Logging
 
 ### <a name="Networking/Other"></a> Other 
+
+* [socket.IO-objc](https://github.com/pkyeck/socket.IO-objc)
+
+> socket.io v0.7.2+ for iOS devices
 
 * [tonymillion/Reachability](https://github.com/tonymillion/Reachability)
 
@@ -454,6 +464,48 @@ presentations made easy. Install the SDK and start streaming now.
 
 ----
 
+## <a name="Beta-testing"></a> Beta testing
+
+* [Ubertesters](http://ubertesters.com/)
+
+> Complete mobile beta testing solution. One platform to orchestrate your entire mobile testing process. 
+
+----
+
+## <a name="Analytics"></a> Analytics
+
+* [AnalyticsKit](https://github.com/twobitlabs/AnalyticsKit)
+
+> Analytics framework for iOS
+
+* [ARAnalytics](https://github.com/orta/ARAnalytics)
+
+> Simplify your iOS analytics
+
+### Providers
+
+* [Flurry](http://www.flurry.com)
+
+> INDUSTRY-LEADING APP ANALYTICS FOR FREE
+
+* [Crashlytics](https://github.com/crashlytics)
+
+> ...the most powerful, yet lightest weight crash reporting solution.
+
+* [mixpanel/mixpanel-iphone](https://github.com/mixpanel/mixpanel-iphone)
+
+> iPhone tracking library for Mixpanel Analytics. http://mixpanel.com
+
+* [bitstadium/HockeySDK-iOS](https://github.com/bitstadium/HockeySDK-iOS)
+
+> The official iOS SDK for the HockeyApp service (Releases are in the master branch, current development in the default develop branch) http://hockeyapp.net/releases
+
+* [Countly/countly-sdk-ios](https://github.com/Countly/countly-sdk-ios)
+
+> Countly Mobile Analytics - iOS SDK http://count.ly
+
+----
+
 ## <a name="Command-Line"></a> Command-line tools
 
 * [xctool](https://github.com/facebook/xctool)
@@ -501,40 +553,6 @@ and enterprises in seconds.
 
 > Install and debug iPhone apps from the command line, without using
 Xcode
-
-----
-
-## <a name="Analytics"></a> Analytics
-
-* [AnalyticsKit](https://github.com/twobitlabs/AnalyticsKit)
-
-> Analytics framework for iOS
-
-* [ARAnalytics](https://github.com/orta/ARAnalytics)
-
-> Simplify your iOS analytics
-
-### Providers
-
-* [Flurry](http://www.flurry.com)
-
-> INDUSTRY-LEADING APP ANALYTICS FOR FREE
-
-* [Crashlytics](https://github.com/crashlytics)
-
-> ...the most powerful, yet lightest weight crash reporting solution.
-
-* [mixpanel/mixpanel-iphone](https://github.com/mixpanel/mixpanel-iphone)
-
-> iPhone tracking library for Mixpanel Analytics. http://mixpanel.com
-
-* [bitstadium/HockeySDK-iOS](https://github.com/bitstadium/HockeySDK-iOS)
-
-> The official iOS SDK for the HockeyApp service (Releases are in the master branch, current development in the default develop branch) http://hockeyapp.net/releases
-
-* [Countly/countly-sdk-ios](https://github.com/Countly/countly-sdk-ios)
-
-> Countly Mobile Analytics - iOS SDK http://count.ly
 
 ----
 
@@ -658,6 +676,15 @@ rendering (CoreAnimation)
 > Transfer data using microphone/speaker on iOS devices
 
 ----
+
+## <a name="Cross-platform-development"></a> Cross-platform development
+
+* [Xamarin](https://xamarin.com/)
+
+> Create Native iOS, Android, Mac and Windows apps in C#.
+
+----
+
 
 ## <a name="Apps"></a> Applications
 
