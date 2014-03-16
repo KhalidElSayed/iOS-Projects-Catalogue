@@ -8,6 +8,8 @@ It will grow as fast as it is possible with my ability to add/explore new projec
 If you liked it, feel free to suggest any new projects that are not
 present in the current list. See [Contribution](https://github.com/stanislaw/iOS-Projects-Catalogue/blob/master/Contribution.md).
 
+You may start watching this repo to receive notifications about new incoming projects. New projects are added via Pull Requests to 'new' branch so all watchers of this repository receive corresponding email notifications.
+
 Also I keep another catalogue of projects: it contains [the list of candidates for this
 catalogue](https://github.com/stanislaw/iOS-Projects-Catalogue/blob/master/Candidates.md). After I am sure enough that a particular candidate-project deserves its place here, I move it here from the list of Candidates.
 
@@ -17,7 +19,7 @@ Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and [
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2014-02-26.
+Last update: 2014-03-16.
 
 ----
 
@@ -98,6 +100,8 @@ Last update: 2014-02-26.
 * [Cross-platform development](#Cross-platform-development)
 
 
+* [Games](#Games)
+
 * [Apps](#Apps)
   * [Graphics](#Apps/Graphics)
   * [Other](#Apps/Other)
@@ -135,6 +139,10 @@ on iOS and OS X
 * [libextobjc](https://github.com/jspahrsummers/libextobjc)
 
 > A Cocoa library to extend the Objective-C programming language.
+
+* [BloodMagic](https://github.com/railsware/BloodMagic)
+
+> Custom attributes for ObjC properties.
 
 * [ObjectiveSugar](https://github.com/mneorr/ObjectiveSugar)
 
@@ -193,6 +201,12 @@ element of a list
 * [NYTimes/objective-c-style-guide](https://github.com/NYTimes/objective-c-style-guide)
 
 > The New York Times Mobile Team’s Objective-C Style Guide.
+
+* [iwasrobbed/Objective-C-CheatSheet](https://github.com/iwasrobbed/Objective-C-CheatSheet)
+
+> A quick reference cheat sheet for common, high level topics in
+Objective-C.
+
 
 ### <a name="Objective-C-And-Cocoa/Low-level"></a> Low level
 
@@ -346,6 +360,10 @@ syncable database engine.
 > A simple Objective-C singleton to instrument, protect, trace, and
 suppress selectors at runtime
 
+* [dyci-main](https://github.com/DyCI/dyci-main)
+
+> Dynamic code injection Tool
+
 ### <a name="DebuggingTools/Logging"></a> Logging
 
 * [NSLogger](https://github.com/fpillet/NSLogger)
@@ -433,6 +451,10 @@ stubbing for iOS and Mac OS X.
 
 > VCRURLConnection is an iOS and OSX API to record and replay HTTP
 interactions, inspired by VCR for ruby
+
+* [CCLRequestReplay](https://github.com/cocodelabs/CCLRequestReplay)
+
+> Powerful Objective-C library to replay HTTP responses
 
 ### Other
 
@@ -551,8 +573,7 @@ and enterprises in seconds.
 
 * [fruitstrap](https://github.com/ghughes/fruitstrap/)
 
-> Install and debug iPhone apps from the command line, without using
-Xcode
+> Install and debug iPhone apps from the command line, without using Xcode
 
 ----
 
@@ -561,6 +582,10 @@ Xcode
 * [ClangFormat-Xcode](https://github.com/travisjeffery/ClangFormat-Xcode)
   
 > Xcode plug-in to to use clang-format from in Xcode and consistently format your code with Clang
+
+* [https://github.com/questbeat/Lin-Xcode5](https://github.com/questbeat/Lin-Xcode5)
+
+> A Localization Manager for Xcode 5
 
 ----
 
@@ -572,8 +597,7 @@ Xcode
 
 * [ShinobiControls/iOS7-day-by-day](https://github.com/ShinobiControls/iOS7-day-by-day)
 
-> Repo containing the sample projects associated with the iOS7 Day-by-Day
-blog series
+> Repo containing the sample projects associated with the iOS7 Day-by-Day blog series
 
 
 ----
@@ -627,6 +651,10 @@ latest versions of iOS.
 > Simple social authentication for iOS. http://simpleauth.io
 
 ## <a name="Maps"></a> Maps
+
+* [calloutview](https://github.com/nfarina/calloutview)
+
+> A lightweight callout view class for iOS mimicking UICalloutView.
 
 ### <a name="Maps/Clustering"></a> Clustering
 
@@ -685,6 +713,14 @@ rendering (CoreAnimation)
 
 ----
 
+## <a name="Games"></a> Games
+
+* [FlappyBlock](https://github.com/joeblau/FlappyBlock)
+
+> This is an iOS verion of the "smash hit" Flappy Bird built using
+iOS7's physics engine.
+
+----
 
 ## <a name="Apps"></a> Applications
 
