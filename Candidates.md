@@ -3,6 +3,10 @@ Candidates for iOS-Projects-Catalogue
 
 ## Uncategorized
 
+* [facebook/folly](https://github.com/facebook/folly)
+
+> Folly is an open-source C++ library developed and used at Facebook.
+
 * [EDSunriseSet](https://github.com/erndev/EDSunriseSet)
 
 > Objective-C class to calculate Sunrise/Sunset/Twilight times.
@@ -27,15 +31,6 @@ between iOS / OS X projects.
 * [mttrb/BeaconOSX](https://github.com/mttrb/BeaconOSX)
 
 > Use a Bluetooth 4 enabled Mac running Mavericks as an iBeacon
-
-* [NSTree](https://github.com/carlinyuen/NSTree)
- 
-> Tree data structure implementation for iOS without using CFTree.
-Keywords: iOS, tree, algorithms, data structures, binary, b-trees.
-
-* [TPCircularBuffer](https://github.com/michaeltyson/TPCircularBuffer)
-
-> A simple, fast circular buffer implementation
 
 * [simlaunch](https://github.com/landonf/simlaunch)
 

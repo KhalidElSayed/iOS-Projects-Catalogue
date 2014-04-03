@@ -19,7 +19,7 @@ Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and [
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2014-03-16.
+Last update: 2014-04-03.
 
 ----
 
@@ -28,6 +28,7 @@ Last update: 2014-03-16.
 * [Objective-C and Cocoa](#Objective-C-And-Cocoa)
   * [Frameworks](#Objective-C-And-Cocoa/Frameworks)
   * [Extensions](#Objective-C-And-Cocoa/Extensions)
+  * [Data structures](#Objective-C-And-Cocoa/Data-Structures)
   * [Promises](#Objective-C-And-Cocoa/Promises)
   * [Macros utilities](#Objective-C-And-Cocoa/Macros-Utilities)
   * [Conventions and Style guides](#Objective-C-And-Cocoa/Conventions-And-Styleguides)
@@ -169,6 +170,16 @@ Future-proof with ARC
 
 > A Swiss Army Knife for Objective-C developers
 
+### <a name="Objective-C-And-Cocoa/Data-Structures"></a> Data structures
+
+* [TPCircularBuffer](https://github.com/michaeltyson/TPCircularBuffer)
+
+> A simple, fast circular buffer implementation
+
+* [NSTree](https://github.com/carlinyuen/NSTree)
+ 
+> Tree data structure implementation for iOS without using CFTree. Keywords: iOS, tree, algorithms, data structures, binary, b-trees.
+
 ### <a name="Objective-C-And-Cocoa/Promises"></a> Libraries implementing Promises (Futures) pattern
 
 * [RXPromise](https://github.com/couchdeveloper/RXPromise)
@@ -209,6 +220,10 @@ Objective-C.
 
 
 ### <a name="Objective-C-And-Cocoa/Low-level"></a> Low level
+
+* [Hopper](http://www.hopperapp.com/index.html)
+
+> Hopper is a reverse engineering tool for OS X, that lets you disassemble, decompile and debug your 32/64bits Intel Mac, Windows and iOS executables!
 
 * [nickhutchinson/libdispatch](https://github.com/nickhutchinson/libdispatch)
 
